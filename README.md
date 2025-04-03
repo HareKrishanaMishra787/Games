@@ -1,7 +1,9 @@
 Python Turtle Games Collection
 This repository contains three classic arcade-style games built using Python's Turtle graphics library:
 <br>
-🐍 Snake Game
+🐍 Snake Game <br>
+![snake game](https://github.com/user-attachments/assets/54fda2f9-4f30-4b14-b5f8-76b665737c18)
+
 A classic Snake game where you control a snake that grows longer as it eats food. The game keeps track of your score and high score.
 Features:
 
@@ -10,7 +12,10 @@ Score tracking and persistent high score saved to file
 Collision detection with walls and snake's own body
 Growing snake mechanics when food is eaten
 
-🏓 Pong Game
+🏓 Pong Game <br>
+
+![Screenshot (548)](https://github.com/user-attachments/assets/bb38f175-0b8c-4456-be82-40615917a92d)
+
 A recreation of the classic Pong arcade game for two players.
 Features:
 
@@ -19,7 +24,9 @@ Score tracking for both players
 Ball physics with increasing speed as the game progresses
 Collision detection with paddles and walls
 
-🐢 Turtle Crossing Game
+🐢 Turtle Crossing Game <br>
+![turtle game](https://github.com/user-attachments/assets/e10e56f8-4523-4b8d-83ff-28b34a40e903)
+
 A Frogger-style game where you control a turtle trying to cross a busy road.
 Features:
 
