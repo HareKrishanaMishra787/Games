@@ -2,7 +2,7 @@ Python Turtle Games Collection
 This repository contains three classic arcade-style games built using Python's Turtle graphics library:
 <br>
 🐍 Snake Game <br>
-![snake game](https://github.com/user-attachments/assets/54fda2f9-4f30-4b14-b5f8-76b665737c18)
+<img src = "https://github.com/user-attachments/assets/54fda2f9-4f30-4b14-b5f8-76b665737c18" width = "500">
 
 A classic Snake game where you control a snake that grows longer as it eats food. The game keeps track of your score and high score.
 Features:
@@ -13,8 +13,9 @@ Collision detection with walls and snake's own body
 Growing snake mechanics when food is eaten
 
 🏓 Pong Game <br>
+<img src = "https://github.com/user-attachments/assets/bb38f175-0b8c-4456-be82-40615917a92d" width = "500" height = "300">
 
-![Screenshot (548)](https://github.com/user-attachments/assets/bb38f175-0b8c-4456-be82-40615917a92d)
+
 
 A recreation of the classic Pong arcade game for two players.
 Features:
@@ -25,7 +26,8 @@ Ball physics with increasing speed as the game progresses
 Collision detection with paddles and walls
 
 🐢 Turtle Crossing Game <br>
-![turtle game](https://github.com/user-attachments/assets/e10e56f8-4523-4b8d-83ff-28b34a40e903)
+<img src = "https://github.com/user-attachments/assets/e10e56f8-4523-4b8d-83ff-28b34a40e903" width = "500">
+
 
 A Frogger-style game where you control a turtle trying to cross a busy road.
 Features:
@@ -44,32 +46,8 @@ Run any of the games using Python:
 
 bashCopypython main.py  # Run the Snake game
 # or
-python F:\...\main.py  # Run the Pong or Turtle Crossing game
-Project Structure
-
-Snake Game:
-
-main.py - Main game loop and setup
-snake.py - Snake class implementation
-food.py - Food class implementation
-scoreboard.py - Score tracking and display
-data.txt - Stores the high score
 
 
-Pong Game:
-
-main.py - Main game loop and setup
-padle.py - Paddle class implementation
-ball.py - Ball class with movement and collision physics
-score.py - Score tracking and display
-
-
-Turtle Crossing Game:
-
-main.py - Main game loop and setup
-player.py - Player (turtle) class implementation
-car_manager.py - Car generation and movement
-scoreboard.py - Level tracking and display
 
 
 
