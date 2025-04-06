@@ -45,29 +45,3 @@ Navigate to the project directory
 Run any of the games using Python:
 
 bashCopypython main.py  # Run the Snake game
-# or
-
-
-
-
-
-Dependencies
-The games use Python's built-in libraries:
-
-turtle - For graphics and game objects
-time - For game timing
-random - For randomization of food/car placement
-
-Screenshots
-The repository includes screenshots of all three games in action.
-Learning Objectives
-These games demonstrate:
-
-Object-oriented programming in Python
-Game development fundamentals
-Event handling and user input
-Collision detection
-File I/O for score persistence
-
-License
-Feel free to use, modify, and distribute this code for educational purposes.RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses. 3.7 Sonnet
